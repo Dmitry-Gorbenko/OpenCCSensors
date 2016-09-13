@@ -1,0 +1,26 @@
+tile.openccsensors.sensor.name=Сенсор
+tile.openccsensors.gauge.name=Измерительный прибор
+tile.openccsensors.proximitysensor.name=Датчик приближения
+
+item.openccsensors.inventoryCard.name=Карта сенсора: Инвентарь
+item.openccsensors.proximityCard.name=Карта сенсора: Приближение
+item.openccsensors.tankCard.name=Карта сенсора: Цистерна
+item.openccsensors.worldCard.name=Карта сенсора: Мир
+item.openccsensors.droppedItemCard.name=Карта сенсора: Предметы
+item.openccsensors.signCard.name=Sign Sensor Card
+item.openccsensors.minecartCard.name=Карта сенсора: Minecart
+item.openccsensors.sonicCard.name=Sonic Sensor Card
+item.openccsensors.powerCard.name=Карта сенсора: Энергия
+item.openccsensors.machineCard.name=Карта сенсора: Механизмы
+item.openccsensors.appliedEnergisticsCard.name=Карта сенсора: Applied Energistics
+item.openccsensors.cropCard.name=Карта сенсора: Посевы
+item.openccsensors.magicCard.name=Карта сенсора: Магия
+
+item.openccsensors.rangeExtensionAntenna.name=Антенна увеличения диапазона
+item.openccsensors.signalAmplifier.name=Усилитель сигнала
+item.openccsensors.advancedAmplifier.name=Расширенный усилитель
+
+gui.openccsensors.sensor=Сенсор
+turtle.openccsensors.sensor.adjective=Сенсор
+
+itemGroup.tabOpenCCSensors=OpenCCSensors 
